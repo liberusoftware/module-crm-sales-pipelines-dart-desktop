@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-sales-pipelines-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-sales-pipelines",
+  "presentation": "dart-desktop",
+  "package": "module_crm_sales_pipelines_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/sales-pipelines.md",
+  "presentationPlan": "projects/crm/features/sales-pipelines.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
